@@ -2,7 +2,7 @@
 {
 	089C1669FE841209C02AAC07 /* Project object */ = {
 		activeBuildConfigurationName = Debug;
-		activeTarget = 1E384A2F0ED909B700DD6F43 /* TCHTTPServerPlugin */;
+		activeTarget = 1E384BC00ED90B2F00DD6F43 /* TCXMLRPCServerPlugin */;
 		addToTargets = (
 			1E384BC00ED90B2F00DD6F43 /* TCXMLRPCServerPlugin */,
 		);
@@ -27,7 +27,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					475,
+					956,
 					20,
 					48,
 					43,
@@ -66,27 +66,21 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 249105490;
-			PBXWorkspaceStateSaveDate = 249105490;
+			PBXPerProjectTemplateStateSaveDate = 251516128;
+			PBXWorkspaceStateSaveDate = 251516128;
 		};
 		perUserProjectItems = {
 			1E384BBC0ED90B2200DD6F43 = 1E384BBC0ED90B2200DD6F43 /* PBXTextBookmark */;
 			1E384BBE0ED90B2200DD6F43 = 1E384BBE0ED90B2200DD6F43 /* PBXTextBookmark */;
 			1E384C030ED90BCD00DD6F43 = 1E384C030ED90BCD00DD6F43 /* PBXTextBookmark */;
-			1E384C040ED90BCD00DD6F43 = 1E384C040ED90BCD00DD6F43 /* PBXTextBookmark */;
 			1E384C060ED90BCD00DD6F43 = 1E384C060ED90BCD00DD6F43 /* PBXTextBookmark */;
 			1E384C070ED90BCD00DD6F43 = 1E384C070ED90BCD00DD6F43 /* PBXTextBookmark */;
 			1E384C0B0ED90C0C00DD6F43 = 1E384C0B0ED90C0C00DD6F43 /* PlistBookmark */;
-			1E384C0C0ED90C0C00DD6F43 = 1E384C0C0ED90C0C00DD6F43 /* PlistBookmark */;
 			1E384C0D0ED90C0C00DD6F43 = 1E384C0D0ED90C0C00DD6F43 /* PlistBookmark */;
 			1E384C0E0ED90C0C00DD6F43 = 1E384C0E0ED90C0C00DD6F43 /* PlistBookmark */;
-			1E384C0F0ED90C0C00DD6F43 = 1E384C0F0ED90C0C00DD6F43 /* PlistBookmark */;
-			1E384C100ED90C0C00DD6F43 = 1E384C100ED90C0C00DD6F43 /* PlistBookmark */;
-			1E384C110ED90C0C00DD6F43 = 1E384C110ED90C0C00DD6F43 /* PlistBookmark */;
-			1E384C370ED90CCD00DD6F43 /* PlistBookmark */ = 1E384C370ED90CCD00DD6F43 /* PlistBookmark */;
-			1E384C450ED90CEA00DD6F43 /* PlistBookmark */ = 1E384C450ED90CEA00DD6F43 /* PlistBookmark */;
-			1E384C640ED90DAF00DD6F43 /* PlistBookmark */ = 1E384C640ED90DAF00DD6F43 /* PlistBookmark */;
-			1E384C6A0ED90DDE00DD6F43 /* PlistBookmark */ = 1E384C6A0ED90DDE00DD6F43 /* PlistBookmark */;
+			1E384C890ED9111C00DD6F43 = 1E384C890ED9111C00DD6F43 /* PlistBookmark */;
+			1E384C920ED9233900DD6F43 = 1E384C920ED9233900DD6F43 /* PBXTextBookmark */;
+			1E6AC8750EFD9A9B00DE9E6D = 1E6AC8750EFD9A9B00DE9E6D /* PBXTextBookmark */;
 		};
 		sourceControlManager = 1E384A350ED909B700DD6F43 /* Source Control */;
 		userBuildSettings = {
@@ -153,9 +147,9 @@
 	};
 	1E384BEB0ED90B7200DD6F43 /* TCXMLRPCServerPlugin.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {828, 972}}";
-			sepNavSelRange = "{215, 0}";
-			sepNavVisRange = "{606, 739}";
+			sepNavIntBoundsRect = "{{0, 0}, {1134, 700}}";
+			sepNavSelRange = "{303, 0}";
+			sepNavVisRange = "{186, 1159}";
 			sepNavWindowFrame = "{{15, -1}, {1439, 874}}";
 		};
 	};
@@ -168,16 +162,6 @@
 		rType = 0;
 		vrLen = 799;
 		vrLoc = 0;
-	};
-	1E384C040ED90BCD00DD6F43 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1E384BEB0ED90B7200DD6F43 /* TCXMLRPCServerPlugin.m */;
-		name = "TCXMLRPCServerPlugin.m: 11";
-		rLen = 0;
-		rLoc = 215;
-		rType = 0;
-		vrLen = 801;
-		vrLoc = 544;
 	};
 	1E384C060ED90BCD00DD6F43 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -211,18 +195,6 @@
 		rLen = 0;
 		rLoc = 2147483647;
 	};
-	1E384C0C0ED90C0C00DD6F43 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			UUID,
-		);
-		name = "/Users/syco/Projects/Technicolor/technicolor-networking/TCHTTPServerPlugin-Info.plist";
-		rLen = 0;
-		rLoc = 2147483647;
-	};
 	1E384C0D0ED90C0C00DD6F43 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
@@ -246,7 +218,7 @@
 		rLen = 0;
 		rLoc = 2147483647;
 	};
-	1E384C0F0ED90C0C00DD6F43 /* PlistBookmark */ = {
+	1E384C890ED9111C00DD6F43 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
 		fallbackIsa = PBXBookmark;
@@ -258,73 +230,24 @@
 		rLen = 0;
 		rLoc = 2147483647;
 	};
-	1E384C100ED90C0C00DD6F43 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 1E384BCE0ED90B2F00DD6F43 /* TCXMLRPCServerPlugin-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			Dependencies,
-		);
-		name = "/Users/syco/Projects/Technicolor/technicolor-networking/TCXMLRPCServerPlugin-Info.plist";
-		rLen = 0;
-		rLoc = 2147483647;
+	1E384C920ED9233900DD6F43 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1E384BEB0ED90B7200DD6F43 /* TCXMLRPCServerPlugin.m */;
+		name = "TCXMLRPCServerPlugin.m: 24";
+		rLen = 1;
+		rLoc = 589;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 478;
 	};
-	1E384C110ED90C0C00DD6F43 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/syco/Projects/Technicolor/technicolor-networking/TCHTTPServerPlugin-Info.plist";
+	1E6AC8750EFD9A9B00DE9E6D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1E384BEB0ED90B7200DD6F43 /* TCXMLRPCServerPlugin.m */;
+		name = "TCXMLRPCServerPlugin.m: 16";
 		rLen = 0;
-		rLoc = 2147483647;
-	};
-	1E384C370ED90CCD00DD6F43 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/syco/Projects/Technicolor/technicolor-networking/TCHTTPServerPlugin-Info.plist";
-		rLen = 0;
-		rLoc = 2147483647;
-	};
-	1E384C450ED90CEA00DD6F43 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/syco/Projects/Technicolor/technicolor-networking/TCHTTPServerPlugin-Info.plist";
-		rLen = 0;
-		rLoc = 2147483647;
-	};
-	1E384C640ED90DAF00DD6F43 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			UUID,
-		);
-		name = "/Users/syco/Projects/Technicolor/technicolor-networking/TCHTTPServerPlugin-Info.plist";
-		rLen = 0;
-		rLoc = 2147483647;
-	};
-	1E384C6A0ED90DDE00DD6F43 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 1E384A310ED909B700DD6F43 /* TCHTTPServerPlugin-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			UUID,
-		);
-		name = "/Users/syco/Projects/Technicolor/technicolor-networking/TCHTTPServerPlugin-Info.plist";
-		rLen = 0;
-		rLoc = 2147483647;
+		rLoc = 303;
+		rType = 0;
+		vrLen = 1159;
+		vrLoc = 186;
 	};
 }

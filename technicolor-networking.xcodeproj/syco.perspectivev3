@@ -233,8 +233,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -272,20 +270,16 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>089C166AFE841209C02AAC07</string>
-								<string>1E384BBB0ED90B1400DD6F43</string>
-								<string>1E384BCF0ED90B5300DD6F43</string>
 								<string>1C37FBAC04509CD000000102</string>
-								<string>1E384C2C0ED90C5300DD6F43</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>26</integer>
-									<integer>21</integer>
+									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 0}, {223, 584}}</string>
+							<string>{{0, 0}, {223, 760}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -295,14 +289,14 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {240, 602}}</string>
+						<string>{{0, 0}, {240, 778}}</string>
 						<key>GroupTreeTableConfiguration</key>
 						<array>
 							<string>MainColumn</string>
 							<real>223</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>237 184 959 643 0 0 1440 878 </string>
+						<string>0 59 1440 819 0 0 1440 878 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -313,12 +307,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1E384A380ED90A2C00DD6F43</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TCHTTPServerPlugin-Info.plist</string>
+								<string>TCXMLRPCServerPlugin.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -326,18 +322,18 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1E384A390ED90A2C00DD6F43</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>TCHTTPServerPlugin-Info.plist</string>
+										<string>TCXMLRPCServerPlugin.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>1E384C6A0ED90DDE00DD6F43</string>
+										<string>1E6AC8750EFD9A9B00DE9E6D</string>
 										<key>history</key>
 										<array>
 											<string>1E384BBC0ED90B2200DD6F43</string>
 											<string>1E384C030ED90BCD00DD6F43</string>
-											<string>1E384C040ED90BCD00DD6F43</string>
 											<string>1E384C0B0ED90C0C00DD6F43</string>
-											<string>1E384C640ED90DAF00DD6F43</string>
+											<string>1E384C890ED9111C00DD6F43</string>
+											<string>1E384C920ED9233900DD6F43</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -359,14 +355,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {714, 418}}</string>
+								<string>{{0, 0}, {1195, 594}}</string>
 								<key>RubberWindowFrame</key>
-								<string>237 184 959 643 0 0 1440 878 </string>
+								<string>0 59 1440 819 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>418pt</string>
+							<string>594pt</string>
 						</dict>
 						<dict>
 							<key>Proportion</key>
@@ -384,7 +380,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {714, 152}}</string>
+										<string>{{10, 27}, {1195, 152}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 59 1440 819 0 0 1440 878 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -438,9 +436,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {714, 152}}</string>
-										<key>RubberWindowFrame</key>
-										<string>237 184 959 643 0 0 1440 878 </string>
+										<string>{{10, 27}, {1195, 152}}</string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -449,7 +445,7 @@
 						</dict>
 					</array>
 					<key>Proportion</key>
-					<string>714pt</string>
+					<string>1195pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -468,11 +464,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>1E384C460ED90CEA00DD6F43</string>
+				<string>1E6AC78F0EFD88EC00DE9E6D</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>1E384C470ED90CEA00DD6F43</string>
+				<string>1E6AC7900EFD88EC00DE9E6D</string>
 				<string>1E384A380ED90A2C00DD6F43</string>
-				<string>1E384C480ED90CEA00DD6F43</string>
+				<string>1E6AC7910EFD88EC00DE9E6D</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -658,7 +654,7 @@
 		<string>/Users/syco/Projects/Technicolor/technicolor-networking/technicolor-networking.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>237 184 959 643 0 0 1440 878 </string>
+	<string>0 59 1440 819 0 0 1440 878 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

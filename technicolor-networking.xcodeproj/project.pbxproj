@@ -73,6 +73,13 @@
 			remoteGlobalIDString = 1E5EF99D0EAC33BC006F064E;
 			remoteInfo = TCJSPlugin;
 		};
+		1E6AC7880EFD88EB00DE9E6D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1E384A3F0ED90A3D00DD6F43 /* Technicolor.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 1E6C75B90EE651F80099140B;
+			remoteInfo = TCCoreUI;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -233,6 +240,7 @@
 				1E384A530ED90A3D00DD6F43 /* TCTVRagePlugin.tcplugin */,
 				1E384A550ED90A3D00DD6F43 /* TCProcessingQueuePlugin.tcplugin */,
 				1E384A570ED90A3D00DD6F43 /* TCJSPlugin.tcplugin */,
+				1E6AC7890EFD88EB00DE9E6D /* TCCoreUI.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -457,6 +465,13 @@
 			fileType = wrapper.cfbundle;
 			path = TCJSPlugin.tcplugin;
 			remoteRef = 1E384A560ED90A3D00DD6F43 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		1E6AC7890EFD88EB00DE9E6D /* TCCoreUI.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = TCCoreUI.framework;
+			remoteRef = 1E6AC7880EFD88EB00DE9E6D /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
